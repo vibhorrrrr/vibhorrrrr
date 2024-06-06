@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Ola Amigo!
 
 Hello! I'm Vibhor Joshi, a Data Analyst and Machine Learning Engineer currently pursuing a degree in Data Science. Additionally, I am pursuing minors in Modern Machine Learning from IIIT Hyderabad. My primary interests lie in Data Science and Machine Learning, with a particular fondness for Probability and Statistics. I'm currently focused on enhancing my problem-solving skills.
 
