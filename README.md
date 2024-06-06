@@ -65,7 +65,7 @@ Hello! I'm Vibhor Joshi, a Data Analyst and Machine Learning Engineer currently 
 ## Contact
 
 - **Phone**: +91-9130445666
-- **Email**: vibhor74@gmail.com
+- **Email**: jvibhor74@gmail.com
 - **LinkedIn**: [linkedin.com/in/vibhorjoshi](https://www.linkedin.com/in/vibhorjoshi)
 - **GitHub**: [github.com/vibhorrorrrr](https://github.com/vibhorrorrrr)
 
