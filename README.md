@@ -1,156 +1,111 @@
 
+<!-- HEADER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=VIBHOR%20JOSHI&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20ARCHITECT%20//%20DATA%20SCIENTIST&descSize=25&descAlign=50&descAlignY=65"/>
+</div>
 
-# SYSTEM KERNEL <span style="color: #00ff41;">// ONLINE</span>
+<!-- TYPING BIO -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=26&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=INITIATING+NEURAL_LINK...;LOAD+MODULE%3A+STOCHASTIC_SIMULATION;EXECUTE+PROTOCOL%3A+SURVIVAL_OPTIMIZATION;STATUS%3A+ONLINE_AND_READY." alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header"/>
+<br/>
 
-## VIBHOR JOSHI
-### `[ ARCHITECT :: SIMULATION_ENGINEER :: DATA_SCIENTIST ]`
-
-<p align="center">
+<!-- SOCIALS -->
+<div align="center">
   <a href="https://github.com/vibhorrrrr">
-    <img src="https://img.shields.io/badge/NODE-REMOTE-success?style=for-the-badge&logo=prometheus&logoColor=white&color=0d1117" alt="Node Remote"/>
+    <img src="https://img.shields.io/badge/GITHUB-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/vibhorjoshi">
-    <img src="https://img.shields.io/badge/LINK-SECURE-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jvibhor74@gmail.com">
-    <img src="https://img.shields.io/badge/COMM-ENCRYPTED-critical?style=for-the-badge&logo=protonmail&logoColor=white&color=8c1c1c" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+  <a href="https://vibhorjoshi.com">
+    <img src="https://img.shields.io/badge/WEBSITE-20C20E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</div>
 
 <br/>
+
+
+---
+
+<!-- IDENTITY MATRIX (ABOUT ME) -->
+## 🧬 `[ IDENTITY_MATRIX ]`
 
 > **"In systems of sufficient complexity, first-order thinking is fatal."**
-> <br/>*Architecting stochastic models that reason through entropy.*
 
-<br/>
+I do not just analyze data; I architect simulations that reason. My work bridges the gap between static datasets and chaotic reality. From logistical chaos to social dynamics, I build digital twins that optimize for survival and signal in a noisy world.
+
+My primary focus lies in **Data Science** and **Machine Learning**, with a particular specialization in **Probability** and **Statistics**. I am currently pursuing a B.Tech in Data Science with Minors in Modern Machine Learning, actively refining my ability to solve high-dimensional problems under uncertainty.
+
+---
+
+<!-- TECH ARSENAL -->
+## 🛠️ `[ TECH_ARSENAL ]`
+
+<div align="center">
+
+| **COMPUTATIONAL CORE** | **DATA INFRASTRUCTURE** | **INTELLIGENCE LAYER** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br/> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br/> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br/> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br/> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br/> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) <br/> ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MonteCarlo](https://img.shields.io/badge/Monte_Carlo-1a1b26?style=for-the-badge&logo=codio&logoColor=20C20E&labelColor=1a1b26)
+![Agents](https://img.shields.io/badge/Multi_Agents-1a1b26?style=for-the-badge&logo=robot-framework&logoColor=20C20E&labelColor=1a1b26)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSC57a8/giphy.gif" width="30px"> SYSTEM TELEMETRY
+<!-- SYSTEM LOGS (WORK EXPERIENCE) -->
+## 📟 `[ OPERATIONAL_HISTORY ]`
 
-```python
-class SystemOperator(Agent):
-    def __init__(self):
-        self.id = "VJ-9920"
-        self.clearance = "L4-ALPHA"
-        self.specialization = "Stochastic Decision Architecture"
-        
-    def mission(self):
-        # I bridge the gap between static datasets and chaotic reality.
-        # Building digital twins that optimize for survival.
-        return {
-            "focus": "Simulations that Reason",
-            "stack": ["Monte Carlo", "MCTS", "Causal Inference"],
-            "status": "DEPLOYING"
-        }
-```
+### **PREDIXEN.AI** | *AI Research Engineer*
+`2025.12 — PRESENT`
+> **Architecting Stochastic Decision Systems.**
+> - Engineered the core architecture of a Stochastic Decision Support System to model complex, non-linear market dynamics.
+> - Collaborated with technical leadership to translate Game Theory and Causal Inference concepts into production simulation engines.
+> - Implemented Causal Graph Architecture (DAGs) to reduce LLM hallucinations and designed MCTS algorithms for high-dimensional state spaces.
+
+### **SPEDITE** | *Data Analyst & ML Engineer*
+`2023.10 — 2024.03`
+> **Logistics Optimization Protocol.**
+> - Deployed predictive logic utilizing Gradient Boosting to minimize entropy in delivery cost estimation.
+> - Processed datasets with complex features (vehicle efficiency, traffic conditions) and applied Label Encoding for categorical data.
+> - Achieved a **15% reduction in Mean Absolute Error (MAE)**, ensuring robust model performance with reproducible results.
 
 ---
 
-<table align="center" width="100%" border="0">
-<tr>
-<td width="55%" valign="top">
+<!-- KNOWLEDGE ARCHIVE (RESEARCH & EDUCATION) -->
+## 📚 `[ KNOWLEDGE_ARCHIVE ]`
 
-## 🛠️ COMPUTATIONAL CORE
+### **RESEARCH & PUBLICATIONS**
+- **IDCIoT 2025**
+    - *Quantifying Effectiveness of Governmental Agriculture Policies using RNN-Transformer based Sentiment Analysis.*
+- **IETACS 2025**
+    - *Adaptive Reasoning Collaboration: A Hybrid Intelligence Framework for Efficient Multi-Agent Reasoning.*
+- **Copyright / Collaboration 2024**
+    - *A Novel Method for Detecting Alveolar Bone Loss using InceptionV3 & ResNet50.*
 
-<div align="center">
+### **ACHIEVEMENTS**
+- 🥇 **First Place**: Pythathon (Internal Hackathon)
+- 🏆 **Grand Finalist**: Smart India Hackathon '23
+- 🚀 **Top 5**: Elevate '23 HackNow Hackathon
+- 🧬 **Finalist**: Biomedical Hackathon (Internal)
 
-| **SIMULATION STACK** | **SYSTEM OPS** |
-|:---:|:---:|
-| ![MonteCarlo](https://img.shields.io/badge/Monte_Carlo-100%25-blue?style=for-the-badge&logo=codio&color=21262d) | ![Causal](https://img.shields.io/badge/Causal_Inf-90%25-blueviolet?style=for-the-badge&logo=graph&color=21262d) |
-| ![Agents](https://img.shields.io/badge/Agents-85%25-orange?style=for-the-badge&logo=robot-framework&color=21262d) | ![Dynamics](https://img.shields.io/badge/Dynamics-80%25-teal?style=for-the-badge&logo=arduino&color=21262d) |
-
-<br/>
-
-| **LANGUAGES** | **DATABASES** |
-|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-95%25-yellow?style=for-the-badge&logo=python&color=21262d) | ![SQL](https://img.shields.io/badge/SQL-90%25-blue?style=for-the-badge&logo=postgresql&color=21262d) |
-| ![C++](https://img.shields.io/badge/C++-85%25-blue?style=for-the-badge&logo=cplusplus&color=21262d) | ![VectorDB](https://img.shields.io/badge/Vector-85%25-green?style=for-the-badge&logo=mongodb&color=21262d) |
-
-</div>
-
-</td>
-<td width="5%" valign="top"></td>
-<td width="40%" valign="top">
-
-## 📜 LOGS
-
-> <img src="https://img.shields.io/badge/CURRENT-PREDIXEN_AI-success?style=flat-square&logo=c&color=black"/>
->
-> **AI Research Engineer**
-> *Architecting Stochastic Decision Systems. Implementing Causal Graphs & MCTS.*
-
-<br/>
-
-> <img src="https://img.shields.io/badge/ARCHIVE-SPEDITE-inactive?style=flat-square&logo=archive&color=grey"/>
->
-> **Data Analyst & ML Engineer**
-> *Optimized logistics using Gradient Boosting. Reduced MAE by 15%.*
-
-</td>
-</tr>
-</table>
-
----
-
-## 📂 ACTIVE RESEARCH MODULES
-
-<div align="center">
-
-| **PROJECT** | **PROTOCOL** | **STATUS** |
-|:---|:---|:---:|
-| **[0xSECO] SecondOrder** | *Business Simulation Engine w/ Gemini 2.0* | ![Active](https://img.shields.io/badge/ONLINE-success?style=flat-square) |
-| **[0xVAJR] VAJRA Legal** | *RAG-based Legal Intelligence (BNS/BNSS)* | ![Active](https://img.shields.io/badge/ONLINE-success?style=flat-square) |
-| **[0xF1-S] F1 Strategy** | *Monte Carlo Race Strategy Optimizer* | ![Beta](https://img.shields.io/badge/BETA-orange?style=flat-square) |
-| **[0xARC] ARC Framework** | *Hybrid Intelligence Routing (17B <-> 7B)* | ![Research](https://img.shields.io/badge/R%26D-blueviolet?style=flat-square) |
-
-</div>
-
-### 🔮 DEEP DIVE
-
-<details>
-<summary><code>Expand [0xSECO] SecondOrder Protocol</code></summary>
-<br/>
-
-> **"First-order thinking is how you lose."**
->
-> A next-generation business simulation engine modeling 2nd and 3rd order systemic feedback loops.
-> - **Core**: Monte Carlo + MCTS
-> - **LLM**: Gemini 2.0 Integration
-> - **Output**: P10/P50/P90 Survival Probability
-</details>
-
-<details>
-<summary><code>Expand [0xVAJR] VAJRA Legal Protocol</code></summary>
-<br/>
-
-> **"Access to justice must be practical."**
->
-> Multilingual AI legal assistant demystifying India's criminal laws.
-> - **Core**: RAG Pipeline
-> - **Data**: BNS, BNSS, BSA
-> - **Access**: Plain language legal citations
-</details>
-
----
-
-## 🏆 KNOWLEDGE ARCHIVE
-
-- **IDCIoT 2025**: *Quantifying Governmental Agriculture Policies (RNN-Transformer)*
-- **IETACS 2025**: *Adaptive Reasoning Collaboration (Hybrid Agents)*
-- **Hackathons**:
-    - 🥇 **Pythathon**: First Place
-    - 🏆 **Smart India Hackathon**: Grand Finalist
+### **EDUCATION**
+- **B.Tech, Data Science** | *G.H. Raisoni College of Engineering* [(CGPA: 9.0)](file:///c:/Users/jvibh/Downloads/msmain/min_sim_main/minimal_sim-main/ui/src/App.tsx#12-185)
+- **Minors, Modern Machine Learning** | *IIIT Hyderabad* [(Aug 2023 - Aug 2025)](file:///c:/Users/jvibh/Downloads/msmain/min_sim_main/minimal_sim-main/ui/src/App.tsx#12-185)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer"/>
-  <br/>
-  <code>System End of Line.</code>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
